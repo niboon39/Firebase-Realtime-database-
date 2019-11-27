@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
 
-#define FIREBASE_HOST "EDIT" // "test-1-e7012.firebaseio.com"
-#define FIREBASE_AUTH "EDIT" // "5j6kXGKFqN45DZRNf63S7lNQh13VY8FSfWnOYJJI"
+#define FIREBASE_HOST "EDIT" 
+#define FIREBASE_AUTH "EDIT" 
 #define WIFI_SSID     "//"
 #define WIFI_PASSWORD "//"
 
