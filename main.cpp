@@ -69,4 +69,5 @@ void setup() {
     //Firebase.setInt("number", number++);
     //Serial.println(number);
     lastState = buttonState;
+   delay(100);
   }
